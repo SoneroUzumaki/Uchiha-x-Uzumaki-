@@ -67,109 +67,109 @@
       "#B5B5B5"
     ],
     "BACKGROUND_FLOATING": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BACKGROUND_SECONDARY": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BACKGROUND_SURFACE_RAISED": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BACKGROUND_TERTIARY": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BG_BASE_SECONDARY": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BG_BASE_TERTIARY": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BG_SURFACE_OVERLAY": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "BG_SURFACE_RAISED": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "CARD_PRIMARY_BG": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "CARD_SECONDARY_BG": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "EMBED_BACKGROUND": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "KEYBOARD": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "PANEL_BG": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#FFFFFF"
+      "#B5B5B5"
     ],
     "HEADER_PRIMARY": [
-      "#858585"
+      "#000000"
     ],
     "INTERACTIVE_NORMAL": [
-      "#858585"
+      "#000000"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
-      "#858585"
+      "#000000"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#858585"
+      "#000000"
     ],
     "TEXT_DEFAULT": [
-      "#858585"
+      "#000000"
     ],
     "TEXT_NORMAL": [
-      "#858585"
+      "#000000"
     ],
     "TEXT_PRIMARY": [
-      "#858585"
+      "#000000"
     ],
     "TEXT_STRONG": [
-      "#858585"
+      "#000000"
     ],
     "ANDROID_RIPPLE": [
       "#5b2a82"
@@ -276,26 +276,26 @@
     "PRIMARY_600": "#B5B5B5",
     "PRIMARY_DARK_700": "#B5B5B5",
     "PRIMARY_DARK_800": "#B5B5B5",
-    "PLUM_16": "#FFFFFF",
-    "PLUM_19": "#FFFFFF",
-    "PLUM_21": "#FFFFFF",
-    "PLUM_22": "#FFFFFF",
-    "PRIMARY_460": "#FFFFFF",
-    "PRIMARY_630": "#FFFFFF",
-    "PRIMARY_660": "#FFFFFF",
-    "PRIMARY_700": "#FFFFFF",
-    "PRIMARY_DARK_600": "#FFFFFF",
-    "PRIMARY_DARK_630": "#FFFFFF",
-    "PRIMARY_DARK_660": "#FFFFFF",
-    "BRAND_730": "#858585",
-    "PLUM_1": "#858585",
-    "PLUM_4": "#858585",
-    "PLUM_6": "#858585",
-    "PRIMARY_100": "#858585",
-    "PRIMARY_200": "#858585",
-    "PRIMARY_330": "#858585",
-    "PRIMARY_DARK_200": "#858585",
-    "WHITE_500": "#858585",
+    "PLUM_16": "#B5B5B5",
+    "PLUM_19": "#B5B5B5",
+    "PLUM_21": "#B5B5B5",
+    "PLUM_22": "#B5B5B5",
+    "PRIMARY_460": "#B5B5B5",
+    "PRIMARY_630": "#B5B5B5",
+    "PRIMARY_660": "#B5B5B5",
+    "PRIMARY_700": "#B5B5B5",
+    "PRIMARY_DARK_600": "#B5B5B5",
+    "PRIMARY_DARK_630": "#B5B5B5",
+    "PRIMARY_DARK_660": "#B5B5B5",
+    "BRAND_730": "#000000",
+    "PLUM_1": "#000000",
+    "PLUM_4": "#000000",
+    "PLUM_6": "#000000",
+    "PRIMARY_100": "#000000",
+    "PRIMARY_200": "#000000",
+    "PRIMARY_330": "#000000",
+    "PRIMARY_DARK_200": "#000000",
+    "WHITE_500": "#000000",
     "BLACK_500": "#000000b2",
     "PLUM_18": "#E9DFF0",
     "PRIMARY_645": "#E9DFF0",
